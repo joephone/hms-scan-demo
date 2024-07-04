@@ -22,7 +22,7 @@
             android:layout_height="48dp"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
-            android:visibility="gone"
+
             android:gravity="center"
             android:src="@drawable/flashlight_off" />
     </RelativeLayout>
